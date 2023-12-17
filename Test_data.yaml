@@ -1,0 +1,4 @@
+url: https://test-stand.gb.ru/
+url_login: https://test-stand.gb.ru/login
+browser: chrome
+sleep_time: 1
